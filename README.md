@@ -1,6 +1,6 @@
-# Introduction to monitoring AWS EKS with Datadog and HashiCorp Cloud Platform
+## Introduction to monitoring AWS EKS with Datadog and HashiCorp Cloud Platform
 
-## Related tutorials and repositories
+### Related tutorials and repositories
 
 * [Provision an EKS Cluster (AWS)](https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks)
 * [Automate Monitoring with the Terraform Datadog Provider](https://developer.hashicorp.com/terraform/tutorials/applications/datadog-provider)
